@@ -7,11 +7,11 @@ We are the CLICK2VOTE TEAM, proud participants in the 3MTT Hackathon 2.0! We dev
 🎉 Click2Vote App
 This app ensures seamless, efficient, secure, and cost-effective voting, solving critical problems in the electoral process in NIgeria .
 
-The Team is made up of two Fellows 1.OLATUNJI DAPO R whose 3MTT Learning track is Cybersecurity and
+The Team is made up of two Fellows 1.OLATUNJI DAPO R (FE/23/46743981) whose    3MTT Learning track is Cybersecurity   and
 
-having  a background in Software development and having a flair for electronics.
+ having  a background in Software development and having a flair for electronics.
 
-2.EMMANUELLA ONYEIJE ,FELLOW ID FE/23/72310346 and her learning track is Software development with a strong passion for Networking
+2 .EMMANUELLA ONYEIJE ,FELLOW ID FE/23/72310346 and her learning track is Software development with a strong passion for Networking
 
 🛠️ Problem the Click2Vote App Solves PLEASE WATCH THE VIDEO AT https://www.youtube.com/watch?v=B7ANNE0z5Yk&t=4s
 
