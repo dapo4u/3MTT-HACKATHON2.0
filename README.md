@@ -31,7 +31,9 @@ Make sure Python 3.7+ is installed on your system:
 
 
 sudo apt update
-sudo apt install python3.7 python3.7-venv python3.7-pip
+sudo apt install python3.7 
+
+python3.7-venv python3.7-pip
 
 
 2️⃣ Create a Project Folder
@@ -64,27 +66,35 @@ git clone https://github.com/dapo4u/3MTT-HACKATHON2.0.git
 
 
 5️⃣ Navigate to the Project Directory
-bash
-Copy code
+
 cd 3MTT-HACKATHON2.0
 
 6️⃣ Install Dependencies
 Install all required Python dependencies:
 
 pip3 install -r requirements.txt
+
+
 7️⃣ Run the App
 Start the development server:
 
 
 python manage.py runserver
-Alternatively, use python3:
+Alternatively, 
+
+use python3:
 
 python3 manage.py runserver
+
+
+
 8️⃣ Log In to the App
 Use these credentials to log in to the application:
 
 Email: daporaphael@gmail.com
 Password: ola2nj
+
+
 🌐 Check Out Our Other Projects
 We’ve developed several other apps for the Hackathon. Explore them here:
 
@@ -95,6 +105,12 @@ We’ve developed several other apps for the Hackathon. Explore them here:
 
 🔐 PDF Encryptor - https://github.com/dapo4u/pdf-encrypt-for-3MTT-HACKATHON
 
+ We also made a headphone using a tilt sensor that prevent sleep among drowsy drivers at night or 
+ 
+ anyone that wants to read at night.
+ 
+ we made a smart glass for the blind using arduino and ultrasonic sensor ,
+ this glass  alert the blind of any obstacle in front
 
 💬 Stay Updated
 📹 A video tutorial on fixing Windows-related errors will be available soon.
