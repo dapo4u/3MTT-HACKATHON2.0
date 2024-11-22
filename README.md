@@ -115,6 +115,26 @@ We’ve developed several other apps for the Hackathon. Explore them here:
 💬 Stay Updated
 📹 A video tutorial on fixing Windows-related errors will be available soon.
 Stay tuned for more updates and improvements!
+📋 Email Addresses and passwords of voters for the app
 
-Final Thoughts
-Thank you for exploring the Click2Vote App! We are committed to improving the way elections are conducted and ensuring a more secure and efficient voting process for everyone
+
+akeemolo1@gmail.com	   oyo
+
+johnhomhen@yahoo.com	  edo
+
+musaed2007@gmail.com	 kaduna
+
+olaolu@gmail.com	     lagos
+
+viviankorie1@gmail.com	 imo
+
+yemisha12@gmail.com	  osun
+
+akpansunday@gmail.com	 calabar
+
+the above are the email addressess of the voters and their passwords
+
+
+for example, the password for akeemolo1@gmail.com	  is oyo
+
+Let me know if you need help 08134112210 
