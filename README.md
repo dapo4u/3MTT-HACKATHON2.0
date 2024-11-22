@@ -3,13 +3,13 @@
 🚀 CLICK2VOTE TEAM
 🌟 Empowering Seamless, Secure, and Cost-Effective Voting Solutions
 
-We are the CLICK2VOTE TEAM, proud participants in the 3MTT Hackathon 2.0! We developed several innovative apps during the event, but the standout is our flagship app:
+We are the CLICK2VOTE TEAM, proud participants in the 3MTT Hackathon 2.0! We developed several innovative apps during the event, but the standout is our  
 
 🎉 Click2Vote App
-This app ensures seamless, efficient, secure, and cost-effective voting, solving critical problems in the electoral process.
+This app ensures seamless, efficient, secure, and cost-effective voting, solving critical problems in the electoral process in NIgeria .
 
 🛠️ Problem the Click2Vote App Solves
-The Click2Vote App is a highly secure Django-based electronic voting platform designed to address several key issues in Nigerian elections:
+The Click2Vote App is a highly secure Django-based electronic voting platform designed to address several key problems  in Nigerian elections:
 
 🗳️ Ballot Snatching
 🛡️ Election Manipulation and Rigging (especially at the LGAs in Nigeria)
@@ -17,7 +17,7 @@ The Click2Vote App is a highly secure Django-based electronic voting platform de
 As an Adhoc INEC officer, I can personally attest to how election rigging starts at the local government level.
 
 🗳️ About the Click2Vote App
-The Click2Vote App works smoothly on Linux and Ubuntu laptops, but there are a few potential issues when running it on Windows systems:
+The Click2Vote App works smoothly on Linux and Ubuntu laptops, but there are a few errors when running the app  on Windows systems:
 
 🖥️ Linux: No errors detected during testing on Kali Linux and Ubuntu.
 💻 Windows: Errors may occur due to missing GTK runtime and DLL files (especially on Windows 7).
@@ -29,22 +29,23 @@ Note: The issue is not with the app itself, but rather with Windows not having t
 1️⃣ Install Python 3.7 (If Not Already Installed)
 Make sure Python 3.7+ is installed on your system:
 
-bash
-Copy code
+
 sudo apt update
 sudo apt install python3.7 python3.7-venv python3.7-pip
+
+
 2️⃣ Create a Project Folder
 Choose a directory where you want to store the project and create a folder for it:
 
-bash
-Copy code
+
 mkdir my_project
 cd my_project
+
+
 3️⃣ Create and Activate a Virtual Environment
 Set up a virtual environment for the project:
 
-bash
-Copy code
+
 # Navigate to your project directory
 cd /path/to/your/project
 
@@ -53,32 +54,31 @@ python3 -m venv venv
 
 # Activate the virtual environment
 source venv/bin/activate
+
+
 4️⃣ Clone the Repository
 Clone the repository from GitHub:
 
-bash
-Copy code
+
 git clone https://github.com/dapo4u/3MTT-HACKATHON2.0.git
+
+
 5️⃣ Navigate to the Project Directory
 bash
 Copy code
 cd 3MTT-HACKATHON2.0
+
 6️⃣ Install Dependencies
 Install all required Python dependencies:
 
-bash
-Copy code
 pip3 install -r requirements.txt
 7️⃣ Run the App
 Start the development server:
 
-bash
-Copy code
+
 python manage.py runserver
 Alternatively, use python3:
 
-bash
-Copy code
 python3 manage.py runserver
 8️⃣ Log In to the App
 Use these credentials to log in to the application:
@@ -88,11 +88,13 @@ Password: ola2nj
 🌐 Check Out Our Other Projects
 We’ve developed several other apps for the Hackathon. Explore them here:
 
-🔍 Trojan PDF File Detector
-⚖️ Equation Balancer
-🔐 PDF Encryptor
-🔧 Get Involved
-We welcome contributions! Feel free to open issues, submit pull requests, or contact us if you have any questions. Together, we can make voting systems more secure and efficient for everyone!
+🔍 Trojan PDF File Detector: https://github.com/dapo4u/trojan-pdf-file-detector
+
+
+⚖️ Equation Balancer -https://github.com/dapo4u/equation-balancer-
+
+🔐 PDF Encryptor - https://github.com/dapo4u/pdf-encrypt-for-3MTT-HACKATHON
+
 
 💬 Stay Updated
 📹 A video tutorial on fixing Windows-related errors will be available soon.
