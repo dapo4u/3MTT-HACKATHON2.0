@@ -1,10 +1,3 @@
-<iframe width="560" height="315" 
-        src="https://youtu.be/B7ANNE0z5Yk" 
-        frameborder="0" 
-        allow="autoplay; encrypted-media" 
-        allowfullscreen>
-</iframe>
-
 
 🚀 CLICK2VOTE TEAM
 🌟 Empowering Seamless, Secure, and Cost-Effective Voting Solutions
@@ -14,7 +7,14 @@ We are the CLICK2VOTE TEAM, proud participants in the 3MTT Hackathon 2.0! We dev
 🎉 Click2Vote App
 This app ensures seamless, efficient, secure, and cost-effective voting, solving critical problems in the electoral process in NIgeria .
 
-🛠️ Problem the Click2Vote App Solves
+The Team is made up of two Fellows 1.OLATUNJI DAPO R whose 3MTT Learning track is Cybersecurity and
+
+having  a background in Software development and having a flair for electronics.
+
+2.EMMANUELLA ONYEIJE ,FELLOW ID FE/23/72310346 and her learning track is Software development with a strong passion for Networking
+
+🛠️ Problem the Click2Vote App Solves PLEASE WATCH THE VIDEO AT https://www.youtube.com/watch?v=B7ANNE0z5Yk&t=4s
+
 The Click2Vote App is a highly secure Django-based electronic voting platform designed to address several key problems  in Nigerian elections:
 
 🗳️ Ballot Snatching
