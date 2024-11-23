@@ -11,7 +11,7 @@ The Team is made up of two Fellows 1.OLATUNJI DAPO R (FE/23/46743981) whose    3
 
  having  a background in Software development and having a flair for electronics.
 
-2 .EMMANUELLA ONYEIJE ,FELLOW ID FE/23/72310346 and her learning track is Software development with a strong passion for Networking
+2 .EMMANUELLA ONYEIJE ,FELLOW ID FE/23/72310346 and her learning track is Software development with a strong passion for Networking ,she will not be with me at the 3MTT Summit because she went for her mum burial
 
 🛠️ Problem the Click2Vote App Solves PLEASE WATCH THE VIDEO AT https://www.youtube.com/watch?v=B7ANNE0z5Yk&t=4s
 
